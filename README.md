@@ -1,4 +1,4 @@
-# 📋 Manual QA Portfolio – Test Documentation Samples
+# 📋 Manual QA Portfolio
 
 Hi! 👋 I'm a **QA Engineer with 3.5+ years of experience** in **Software Testing**, specializing in **test documentation**, **bug reporting**, and **test planning**.
 
@@ -37,6 +37,6 @@ Browse the folders to review examples of my QA documentation. Each file demonstr
 ## 📫 Contact
 
 Feel free to connect with me for collaboration or opportunities:
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/)
+- **Email:** gmehreen06@gmail.com
+- **LinkedIn:** [Mehreen Gull](https://www.linkedin.com/in/mehreen-gull-302a36177/)
 
