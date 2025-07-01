@@ -21,6 +21,7 @@ I am passionate about ensuring software quality through meticulous manual testin
 - `Test_Cases/` – Sample test cases for various applications (Banking, Ecommerce, Influencer Marketing)
 - `Bug_Reports/` – Example bug reports for different platforms
 - `Test_Plan/` – A sample test plan document
+- `API_Testing/` – API testing documentation, including sample test cases and reports
 
 ---
 
@@ -31,6 +32,7 @@ Browse the folders to review examples of my QA documentation. Each file demonstr
 - **Test Cases:** Review how I design and organize test scenarios.
 - **Bug Reports:** See my approach to clear, reproducible bug documentation.
 - **Test Plans:** Understand my process for planning and strategizing QA efforts.
+- **API Testing:** Explore my approach to API testing, including test cases and sample results.
 
 ---
 
